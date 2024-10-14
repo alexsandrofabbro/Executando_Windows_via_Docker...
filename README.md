@@ -84,7 +84,7 @@ Este processo usa a imagem <code>dockurr/windows</code> e permite acessar o Wind
     <pre><code>docker-compose down</code></pre>
 <h2 id="recursos-adicionais">Recursos Adicionais</h2>
 <ul>
-  <li><a href="https://github.com/dockur/windows" target="_self">Repositório Dockurr/Windows</a></li>
+  <li><a href="https://github.com/dockur/windows" target="_blank">Repositório Dockurr/Windows</a></li>
   <li><a href="https://docs.docker.com/" target="_blank">Documentação do Docker</a></li>
 </ul>
 
